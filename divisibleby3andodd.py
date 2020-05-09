@@ -4,6 +4,5 @@ if user%2==1:
         print("odd and multiple of 3")
     else:
         print("odd but not multiple of 3")
-
 else:
     print("not odd")                                  
