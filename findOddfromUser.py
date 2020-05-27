@@ -6,5 +6,5 @@ while i<user:
     odd=odd+j
     i=i+1
     j=j+2
-print(odd)
+print(odd) 
 

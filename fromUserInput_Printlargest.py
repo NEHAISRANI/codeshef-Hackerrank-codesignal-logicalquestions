@@ -1,3 +1,4 @@
+
 user=eval(input("enter your number\n"))
 i=0
 b=0

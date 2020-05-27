@@ -1,5 +1,4 @@
 print"1"
-
 z=3
 i=2
 while i<=5:

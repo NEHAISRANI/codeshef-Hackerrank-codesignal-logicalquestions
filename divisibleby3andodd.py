@@ -6,3 +6,4 @@ if user%2==1:
         print("odd but not multiple of 3")
 else:
     print("not odd")                                  
+
